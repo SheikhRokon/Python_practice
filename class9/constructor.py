@@ -1,7 +1,7 @@
 class Profile:
-    def sumon( salf, name,age):
+    def sumon( self, name,age):
         print(f"my name is {name} and my age is {age}")
-    def khalid( salf, name,age):
+    def khalid( self, name,age):
         print(f" {name} and my age is {age}")
 
 
