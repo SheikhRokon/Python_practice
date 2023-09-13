@@ -8,4 +8,13 @@ class className:
         print("class method ")
         
 x = className()
-x.instancemethod()            
+
+
+x.instancemethod() 
+# className.instancemethod() kaj kor be na 
+
+
+
+x.classmethod()
+className.classmethod()
+          
